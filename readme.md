@@ -42,6 +42,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Tools Marketer](https://thenextaidirectory.com/go/ai-tools-marketer) | 38 | Find best AI tools for marketing |
 | [OpenFuture AI](https://thenextaidirectory.com/go/openfuture-ai) | 38 | All AI tools in one place |
 | [AI Scout](https://thenextaidirectory.com/go/ai-scout) | 37 | AI tools directory |
+| [Top Free AI Tools](https://thenextaidirectory.com/go/top-free-ai-tools) | 35 | Find AI tools for every tasks |
 | [Free AI Tool](https://thenextaidirectory.com/go/free-ai-tool) | 34 | List of best & latest free AI tools |
 | [Robopost](https://thenextaidirectory.com/go/robopost) | 34 | Discover the best AI websites & tools |
 | [Altern](https://thenextaidirectory.com/go/altern) | 31 | Your gateway to the AI universe |
