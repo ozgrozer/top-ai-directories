@@ -31,6 +31,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [Appscribed](https://thenextaidirectory.com/go/appscribed) | 46 | Find the best AI tools for your needs, all in one place |
 | [Insidr AI Directory](https://thenextaidirectory.com/go/insidr-ai-directory) | 46 | Best AI tools directory |
 | [All Things AI](https://thenextaidirectory.com/go/all-things-ai) | 44 | The curated resource of AI tools |
+[AI Tools Magazine](https://aitoolsmagazine.com/) | 40 | Find the Best AI Tools & Increase Your Productivity by 10x |
 | [Find My AI Tool](https://thenextaidirectory.com/go/find-my-ai-tool) | 42 | Discover AI tools for your business |
 | [aitools.fyi](https://thenextaidirectory.com/go/aitools-fyi) | 42 | Find best AI tools that make your life easy |
 | [AI Tool Hunt](https://thenextaidirectory.com/go/ai-tool-hunt) | 40 | Discover, compare, and leverage the power of AI tools |
