@@ -1,6 +1,6 @@
 # Top AI Directories
 
-This repository provides an organized collection of AI directories, ranked from high Domain Rating (DR) to low
+This repository provides an organized collection of AI directories, ranked from high Domain Rating (DR) to low. Please submit your directory to [thenextaidirectory.com](https://thenextaidirectory.com) to get listed here.
 
 ---
 
