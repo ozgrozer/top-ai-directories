@@ -100,3 +100,5 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI-Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://thenextaidirectory.com/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
