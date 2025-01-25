@@ -10,7 +10,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
-| [The Next AI Tool (Featured)](https://thenextaitool.com?ref=thenextaidirectory.com) | 56 | The best new AI tools, every day |
+| [The Next AI Tool (Featured)](https://thenextaitool.com?ref=thenextaidirectory.com) | 47 | The best new AI tools, every day |
 | [There's an AI For That](https://thenextaidirectory.com/go/theres-an-ai-for-that) | 74 | Discover the newest and best AI tools |
 | [Futurepedia](https://thenextaidirectory.com/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Robopost](https://thenextaidirectory.com/go/robopost) | 69 | Discover the best AI websites & tools |
@@ -98,5 +98,8 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Testing Tools](https://thenextaidirectory.com/go/ai-testing-tools) | 0 | Your one-stop destination for AI-powered tools for software testing, test automation, etc. |
 | [AI Tool List](https://thenextaidirectory.com/go/ai-tool-list) | 0 | Discover tools to supercharge your AI journey |
 | [AI-Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
+| [Expify AI](https://thenextaidirectory.com/go/expify-ai) | 31 | The ultimate AI tools directory |
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://thenextaidirectory.com/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
+| [All AI Voices](https://thenextaidirectory.com/go/all-ai-voices) | 0 |  AI voice platform |
+| [FutureAI.tools](https://thenextaidirectory.com/go/futureai-tools) | 0 | Best AI tools directory |
