@@ -49,6 +49,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [Spiff.store](https://thenextaidirectory.com/go/spiff-store) | 34 | Internet's best database for AI tools |
 | [Best Directories](https://thenextaidirectory.com/go/best-directories) | 32 | Your ultimate directory of directories |
 | [God of Prompt](https://thenextaidirectory.com/go/god-of-prompt) | 32 | Discover 1000+ best AI tools |
+| [Expify AI](https://thenextaidirectory.com/go/expify-ai) | 31 | The ultimate AI tools directory |
 | [AI Best Tools](https://thenextaidirectory.com/go/ai-best-tools) | 30 | Discover the latest and the best AI tools of 2024 in AIBest |
 | [AI Agents Directory](https://thenextaidirectory.com/go/ai-agents-directory) | 29 | The marketplace for AI agents |
 | [AI Best Top](https://thenextaidirectory.com/go/ai-best-top) | 29 | Discover the best AI tools 2024 |
@@ -98,7 +99,6 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Testing Tools](https://thenextaidirectory.com/go/ai-testing-tools) | 0 | Your one-stop destination for AI-powered tools for software testing, test automation, etc. |
 | [AI Tool List](https://thenextaidirectory.com/go/ai-tool-list) | 0 | Discover tools to supercharge your AI journey |
 | [AI-Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
-| [Expify AI](https://thenextaidirectory.com/go/expify-ai) | 31 | The ultimate AI tools directory |
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://thenextaidirectory.com/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
 | [All AI Voices](https://thenextaidirectory.com/go/all-ai-voices) | 0 |  AI voice platform |
