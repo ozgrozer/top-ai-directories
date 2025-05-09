@@ -10,7 +10,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
-| [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 35 | The best new AI tools, every day |
+| [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 36 | The best new AI tools, every day |
 | [There's an AI For That](https://thenextaidirectory.com/go/theres-an-ai-for-that) | 75 | Discover the newest and best AI tools |
 | [Futurepedia](https://thenextaidirectory.com/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Tool Pilot](https://thenextaidirectory.com/go/tool-pilot) | 70 | Navigate the world of AI tools |
@@ -97,9 +97,11 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [Tools.so](https://thenextaidirectory.com/go/tools-so) | 4 | Growing directory of the best AI tools on the internet |
 | [AI Pulse](https://thenextaidirectory.com/go/ai-pulse) | 3 | Your trusted source for in-depth reviews of the latest AI tools and technologies |
 | [All The AI Tools](https://thenextaidirectory.com/go/all-the-ai-tools) | 3 | Explore the largest collection of AI tools |
+| [Somi.ai](https://thenextaidirectory.com/go/somi-ai) | 3 | Discover AI tools & hacks for AI entrepreneurs |
 | [Submit AI Tools](https://thenextaidirectory.com/go/submit-ai-tools) | 3 | The ultimate AI directory for discovering & listing AI solutions |
 | [AI Testing Tools](https://thenextaidirectory.com/go/ai-testing-tools) | 1 | Your one-stop destination for AI-powered tools for software testing, test automation, etc. |
 | [AI-Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory) | 1 | A directory of AI tools curated by AI itself |
+| [AiSoftO](https://thenextaidirectory.com/go/aisofto) | 1 | Discover AI websites & tools |
 | [Dynamite AI](https://thenextaidirectory.com/go/dynamite-ai) | 1 | Find the best AI tools for your needs |
 | [AI Affiliate Programs](https://thenextaidirectory.com/go/ai-affiliate-programs) | 0 | A comprehensive directory of 120+ AI affiliate programs across multiple categories |
 | [AI Daily Hacks](https://thenextaidirectory.com/go/ai-daily-hacks) | 0 | Discover new AI tools everyday |
