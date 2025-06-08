@@ -11,6 +11,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
 | [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 27 | The best new AI tools, every day |
+| [Blink Ai](https://blinkai.shop) | 76 | Your Instant Shopping Guide |
 | [There's an AI For That](https://thenextaidirectory.com/go/theres-an-ai-for-that) | 75 | Discover the newest and best AI tools |
 | [Futurepedia](https://thenextaidirectory.com/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Tool Pilot](https://thenextaidirectory.com/go/tool-pilot) | 70 | Navigate the world of AI tools |
