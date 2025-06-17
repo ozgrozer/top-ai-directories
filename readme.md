@@ -10,7 +10,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
-| [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 27 | The best new AI tools, every day |
+| [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 26 | The best new AI tools, every day |
 | [There's an AI For That](https://thenextaidirectory.com/go/theres-an-ai-for-that) | 75 | Discover the newest and best AI tools |
 | [Futurepedia](https://thenextaidirectory.com/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Tool Pilot](https://thenextaidirectory.com/go/tool-pilot) | 70 | Navigate the world of AI tools |
@@ -62,10 +62,12 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [Altern](https://thenextaidirectory.com/go/altern) | 29 | Your gateway to the AI universe |
 | [Productivity Directory](https://thenextaidirectory.com/go/productivity-directory) | 29 | A curated productivity directory |
 | [Stratup.ai](https://thenextaidirectory.com/go/stratup-ai) | 29 | Directory of the best startup AI tools |
+| [AI Toolz Dir](https://thenextaidirectory.com/go/ai-toolz-dir) | 27 | Handpicked AI tools that save you time & money |
 | [AIPressRoom](https://thenextaidirectory.com/go/aipressroom) | 26 | AI news, product launches, press releases & insights |
 | [DetectorTools.ai](https://thenextaidirectory.com/go/detectortools-ai) | 26 | The #1 directory for AI detectors. Use AI to detect AI. |
 | [Top Tools](https://thenextaidirectory.com/go/top-tools) | 26 | AI tools directory |
 | [Ainave](https://thenextaidirectory.com/go/ainave) | 25 | Navigate the world of AI with ease |
+| [Makerlist.io](https://thenextaidirectory.com/go/makerlist-io) | 25 | Discover the internets best tools |
 | [SEOFAI](https://thenextaidirectory.com/go/seofai) | 25 | Your gateway to AI tools & updates |
 | [Victrays](https://thenextaidirectory.com/go/victrays) | 24 | Find AI tool for everything |
 | [AI Depot](https://thenextaidirectory.com/go/ai-depot) | 22 | Discover the best new AI tools |
@@ -113,6 +115,8 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI SEO List](https://thenextaidirectory.com/go/ai-seo-list) | 0 | Discover the best AI tools for SEO |
 | [AI Tool Finder](https://thenextaidirectory.com/go/ai-tool-finder) | 0 | Discover and compare thousands of AI tools to find the perfect solution for any task! |
 | [AI Tool List](https://thenextaidirectory.com/go/ai-tool-list) | 0 | Discover tools to supercharge your AI journey |
+| [Aixyz](https://thenextaidirectory.com/go/aixyz) | 0 | Discover the best AI tools in one place |
+| [Best AI Tools](https://thenextaidirectory.com/go/best-ai-tools) | 0 | Find the best AI tools & solutions |
 | [Tail Daily](https://thenextaidirectory.com/go/tail-daily) | 0 | Top AI resources listed daily with helpful resources and tips to identify the tools you need |
 | [Twivv](https://thenextaidirectory.com/go/twivv) | 0 | AI news, reviews and tool directory |
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
