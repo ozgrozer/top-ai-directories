@@ -122,3 +122,4 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [All AI Voices](https://thenextaidirectory.com/go/all-ai-voices) | 0 |  AI voice platform |
 | [FutureAI.tools](https://thenextaidirectory.com/go/futureai-tools) | 0 | Best AI tools directory |
+| [Best-AI-Tools](https://best-ai-tools.org) | 0 | Best open Source AI Tools & LLM´s + Acadmey |
