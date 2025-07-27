@@ -54,6 +54,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [Spiff.store](https://thenextaidirectory.com/go/spiff-store) | 34 | Internet's best database for AI tools |
 | [Best Directories](https://thenextaidirectory.com/go/best-directories) | 32 | Your ultimate directory of directories |
 | [God of Prompt](https://thenextaidirectory.com/go/god-of-prompt) | 32 | Discover 1000+ best AI tools |
+| [Good AI Tools](https://thenextaidirectory.com/go/good-ai-tools) | 32 | Discover the best AI tools to boost your productivity |
 | [Expify AI](https://thenextaidirectory.com/go/expify-ai) | 31 | The ultimate AI tools directory |
 | [AI Best Tools](https://thenextaidirectory.com/go/ai-best-tools) | 30 | Discover the latest and the best AI tools of 2024 in AIBest |
 | [AI Agent Store](https://thenextaidirectory.com/go/ai-agent-store) | 29 | AI agents marketplace updated daily |
@@ -120,8 +121,10 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIlistingtool](https://thenextaidirectory.com/go/ailistingtool) | 0 | Discover AI tools that transform your work |
 | [Aixyz](https://thenextaidirectory.com/go/aixyz) | 0 | Discover the best AI tools in one place |
+| [All AI Tools](https://thenextaidirectory.com/go/all-ai-tools) | 0 | Best AI tools at one place |
 | [All AI Voices](https://thenextaidirectory.com/go/all-ai-voices) | 0 |  AI voice platform |
 | [Beyond The AI](https://thenextaidirectory.com/go/beyond-the-ai) | 0 | Discover AI tools with AI-powered search |
 | [FutureAI.tools](https://thenextaidirectory.com/go/futureai-tools) | 0 | Best AI tools directory |
 | [Tail Daily](https://thenextaidirectory.com/go/tail-daily) | 0 | Top AI resources listed daily with helpful resources and tips to identify the tools you need |
+| [Tools Hub AI](https://thenextaidirectory.com/go/tools-hub-ai) | 0 | Top AI tools for images, video and code |
 | [Twivv](https://thenextaidirectory.com/go/twivv) | 0 | AI news, reviews and tool directory |
