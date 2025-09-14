@@ -10,7 +10,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
-| [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 27 | The best new AI tools, every day |
+| [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 37 | The best new AI tools, every day |
 | [AI Tools by Neil Patel](https://thenextaidirectory.com/go/ai-tools-by-neil-patel) | 91 | The tools of the future to automate workflows, marketing and content creation |
 | [There's an AI For That](https://thenextaidirectory.com/go/theres-an-ai-for-that) | 74 | Discover the newest and best AI tools |
 | [Tool Pilot](https://thenextaidirectory.com/go/tool-pilot) | 73 | Navigate the world of AI tools |
@@ -107,6 +107,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AIlistingtool](https://thenextaidirectory.com/go/ailistingtool) | 5 | Discover AI tools that transform your work |
 | [Aifyles](https://thenextaidirectory.com/go/aifyles) | 5 | Explore top AI tools |
 | [Future AGI Tools](https://thenextaidirectory.com/go/future-agi-tools) | 5 | Find the best AI tools |
+| [AI Directory Wiki](https://thenextaidirectory.com/go/ai-directory-wiki) | 4 | Yet another AI Directory |
 | [AI Hustle](https://thenextaidirectory.com/go/ai-hustle) | 4 | All the best AI tools in one place |
 | [All The AI Tools](https://thenextaidirectory.com/go/all-the-ai-tools) | 4 | Explore the largest collection of AI tools |
 | [Dynamite AI](https://thenextaidirectory.com/go/dynamite-ai) | 4 | Find the best AI tools for your needs |
@@ -119,6 +120,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Detectors](https://thenextaidirectory.com/go/ai-detectors) | 1 | Find the AI detector that best suits your needs |
 | [AI Tool List](https://thenextaidirectory.com/go/ai-tool-list) | 1 | Discover tools to supercharge your AI journey |
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 1 | Find the best AI tools & increase your productivity by 10x |
+| [Evolmagazine](https://thenextaidirectory.com/go/evolmagazine) | 1 | Find, compare, and integrate the best AI and productivity tools |
 | [NeonRev](https://thenextaidirectory.com/go/neonrev) | 1 | Best AI tools at your fingertips |
 | [AI Simplify Directory](https://thenextaidirectory.com/go/ai-simplify-directory) | 0 | A directory of AI tools, tutorials, and news |
 | [AI Daily Hacks](https://thenextaidirectory.com/go/ai-daily-hacks) | 0 | Discover new AI tools everyday |
