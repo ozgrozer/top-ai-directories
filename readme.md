@@ -68,6 +68,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [Altern](https://thenextaidirectory.com/go/altern) | 30 | Your gateway to the AI universe |
 | [OpenFuture AI](https://thenextaidirectory.com/go/openfuture-ai) | 30 | All AI tools in one place |
 | [Productivity Directory](https://thenextaidirectory.com/go/productivity-directory) | 30 | A curated productivity directory |
+| [StackMention](https://thenextaidirectory.com/go/stackmention) | 30 | A simple place for startups to list their tools and reach more users |
 | [AI Parabellum](https://thenextaidirectory.com/go/ai-parabellum) | 29 | Top AI tools to boost productivity and enhance skills |
 | [AI Toolz Dir](https://thenextaidirectory.com/go/ai-toolz-dir) | 29 | Handpicked AI tools that save you time & money |
 | [Free AI Tool](https://thenextaidirectory.com/go/free-ai-tool) | 28 | List of best & latest free AI tools |
@@ -93,6 +94,8 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [ToolsPedia AI](https://thenextaidirectory.com/go/toolspedia-ai) | 14 | The world's best & largest AI tools directory |
 | [Awesome Tools](https://thenextaidirectory.com/go/awesome-tools) | 13 | The most awesome tools of the internet! |
 | [RankmyAI](https://thenextaidirectory.com/go/rankmyai) | 13 | The world’s largest index and ranking of AI tools |
+| [Rilna](https://thenextaidirectory.com/go/rilna) | 13 | The software listing platform for SME and Independent |
+| [AI Launch Space](https://thenextaidirectory.com/go/ai-launch-space) | 12 | AI Launch Space is the ultimate launchpad for creators building AI tools |
 | [There's An AI](https://thenextaidirectory.com/go/theres-an-ai) | 12 | A curated collection of top AI tools |
 | [AI Tools Guide](https://thenextaidirectory.com/go/ai-tools-guide) | 11 | We've reviewed the best AI tools on the market |
 | [AI Image and Video Generators](https://thenextaidirectory.com/go/ai-image-and-video-generators) | 10 | Discover top AI visual tools |
@@ -136,6 +139,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [All AI Voices](https://thenextaidirectory.com/go/all-ai-voices) | 0 |  AI voice platform |
 | [Best of AI](https://thenextaidirectory.com/go/best-of-ai) | 0 | A list of best of AI tools |
 | [Beyond The AI](https://thenextaidirectory.com/go/beyond-the-ai) | 0 | Discover AI tools with AI-powered search |
+| [Buzz Ai Directory](https://thenextaidirectory.com/go/buzz-ai-directory) | 0 | Find the perfect AI tool for your needs |
 | [Directories Wiki](https://thenextaidirectory.com/go/directories-wiki) | 0 | Your ultimate directory finder, providing a curated list of any type of directories on the web |
 | [FindToolz](https://thenextaidirectory.com/go/findtoolz) | 0 | Find the right AI tool fast |
 | [FutureAI.tools](https://thenextaidirectory.com/go/futureai-tools) | 0 | Best AI tools directory |
