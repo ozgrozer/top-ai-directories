@@ -10,6 +10,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
+| [300 AI Directories](https://300aidirectories.com/) | 45 | Submit your AI tool to 300+ curated directories for backlinks, traffic & SEO |
 | [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 37 | The best new AI tools, every day |
 | [AI Tools by Neil Patel](https://thenextaidirectory.com/go/ai-tools-by-neil-patel) | 91 | The tools of the future to automate workflows, marketing and content creation |
 | [There's an AI For That](https://thenextaidirectory.com/go/theres-an-ai-for-that) | 74 | Discover the newest and best AI tools |
