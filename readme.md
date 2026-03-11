@@ -126,6 +126,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AiMatch.pro](https://thenextaidirectory.com/go/aimatch-pro) | 2 | Find the right AI tool for you or show your AI tool to the world |
 | [AiSoftO](https://thenextaidirectory.com/go/aisofto) | 2 | Discover AI websites & tools |
 | [Tail Daily](https://thenextaidirectory.com/go/tail-daily) | 2 | Top AI resources listed daily with helpful resources and tips to identify the tools you need |
+| [Captchainbox](https://captchainbox.com) | - | The CAPTCHA for your inbox - Bot protection for your inbox. Known contacts get through instantly, unknown senders prove they're human with a simple CAPTCHA. | Email, Productivity, Security, Anti-Spam, SaaS, Gmail, Email Security | $5/month (7-day free trial) |
 | [AI Detectors](https://thenextaidirectory.com/go/ai-detectors) | 1 | Find the AI detector that best suits your needs |
 | [AI Tool List](https://thenextaidirectory.com/go/ai-tool-list) | 1 | Discover tools to supercharge your AI journey |
 | [AI Tools Magazine](https://thenextaidirectory.com/go/ai-tools-magazine) | 1 | Find the best AI tools & increase your productivity by 10x |
