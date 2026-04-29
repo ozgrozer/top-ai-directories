@@ -41,6 +41,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Best Top](https://thenextaidirectory.com/go/ai-best-top) | 48 | Discover the best AI tools 2024 |
 | [BAI.tools](https://thenextaidirectory.com/go/bai-tools) | 47 | Discover the best AI tools of 2024 with the bai.tools AI directory |
 | [Insidr AI Directory](https://thenextaidirectory.com/go/insidr-ai-directory) | 47 | Best AI tools directory |
+| [aijet.cc](https://aijet.cc) | 47 | Free AI Dictionary Tools |
 | [AI Best Tools](https://thenextaidirectory.com/go/ai-best-tools) | 46 | Discover the latest and the best AI tools of 2024 in AIBest |
 | [Best Directories](https://thenextaidirectory.com/go/best-directories) | 45 | Your ultimate directory of directories |
 | [LineZine](https://thenextaidirectory.com/go/linezine) | 45 | Discover the best AI tools to enhance your workflow across different business functions |
