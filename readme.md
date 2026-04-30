@@ -37,6 +37,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [AI Tool Directory](https://thenextaidirectory.com/go/ai-tool-directory-2) | 52 | A comprehensive directory of AI tools designed to revolutionize the way you work |
 | [AI Tool Hunt](https://thenextaidirectory.com/go/ai-tool-hunt) | 51 | Discover, compare, and leverage the power of AI tools |
 | [Earlyhunt](https://thenextaidirectory.com/go/earlyhunt) | 50 | Launch your AI product and get hunted by thousands |
+| [AI Jet](https://thenextaidirectory.com/go/ai-jet) | 49 | Explore free AI tools, boost your productivity |
 | [AIChief](https://thenextaidirectory.com/go/aichief) | 49 | #1 AI tools directory created exclusively for businesses, AI explorers, and curious minds alike |
 | [AI Best Top](https://thenextaidirectory.com/go/ai-best-top) | 48 | Discover the best AI tools 2024 |
 | [BAI.tools](https://thenextaidirectory.com/go/bai-tools) | 47 | Discover the best AI tools of 2024 with the bai.tools AI directory |
