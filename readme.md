@@ -154,3 +154,4 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [FutureAI.tools](https://thenextaidirectory.com/go/futureai-tools) | 0 | Best AI tools directory |
 | [Tools Hub AI](https://thenextaidirectory.com/go/tools-hub-ai) | 0 | Top AI tools for images, video and code |
 | [Twivv](https://thenextaidirectory.com/go/twivv) | 0 | AI news, reviews and tool directory |
+| [Nick Launches](https://nicklaunches.com/) |  |  |
