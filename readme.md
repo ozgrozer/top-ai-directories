@@ -48,7 +48,7 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 | [All Things AI](https://thenextaidirectory.com/go/all-things-ai) | 44 | The curated resource of AI tools |
 | [God of Prompt](https://thenextaidirectory.com/go/god-of-prompt) | 44 | Discover 1000+ best AI tools |
 | [AI Tool Trek](https://thenextaidirectory.com/go/ai-tool-trek) | 43 | Curated list of latest AI tools & AI news |
-| [Appscribed](https://thenextaidirectory.com/go/appscribed) | 43 | Find the best AI tools for your needs, all in one place |
+| [Appscribed](https://thenextaidirectory.com/go/appscribed) | 43 | AI tools directory and submission platform for discovering and listing AI software |
 | [Good AI Tools](https://thenextaidirectory.com/go/good-ai-tools) | 43 | Discover the best AI tools to boost your productivity |
 | [AI Tools Directory](https://thenextaidirectory.com/go/ai-tools-directory-2) | 42 | Curated list of AI tools |
 | [Based Tools](https://thenextaidirectory.com/go/based-tools) | 42 | The most based AI directory |
